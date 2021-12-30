@@ -1,0 +1,9 @@
+.flightCard {
+  width: "25rem";
+  cursor: pointer;
+  margin-bottom: 7%;
+}
+
+.flightCard:hover {
+  background-color: lavender;
+}
